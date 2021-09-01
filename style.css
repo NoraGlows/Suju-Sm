@@ -1,0 +1,20 @@
+body{
+    background-image:url(asset/desktopWall.jpg) ;
+    background-repeat: no-repeat;
+    background-position :center;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size:cover ;
+}
+.container{
+    background-color: white;
+    border-radius: 10px;
+}
+#icons{
+    height: 50px;
+    width: 50px;
+}
+#icon{
+    height: 25px;
+    width: 25px;
+}
