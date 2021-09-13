@@ -14,22 +14,25 @@ body{
 header {
     position: absolute;
     top:0px;
-    background-color: gray;
+    background-color: #09054ab3;
     height: 5vh;
     width: 100%;
 }
 footer{
     position: absolute;
     bottom:0px;
-    background-color: gray;
+    background-color: #09054ab3;
     height: 10vh;
     width: 100%;
 }
 .container{
-    background-color: white;
+    background-color: #ffffffb8;
     border-radius: 10px;
     padding: 50px;
-
+    height: 300px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
 }
 #icons{
     height: 50px;
@@ -38,4 +41,7 @@ footer{
 #icon{
     height: 25px;
     width: 25px;
+}
+a{
+    text-decoration: none;
 }
